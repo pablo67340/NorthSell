@@ -1,0 +1,4 @@
+name: NorthSell
+main: website.bryces.northsell.main.Main
+indexFile: 'index.html'
+forceIndex: true
